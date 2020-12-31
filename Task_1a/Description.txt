@@ -1,0 +1,2 @@
+This is a maze solving code written for a robot, where it is supposed to find the shortest path. Given a maze, the task is to navigate from a START location in the maze to an END location, where the coordinates of START are (0,0) and END are (9,9).
+task_1a is the code we developed.
