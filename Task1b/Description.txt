@@ -1,5 +1,5 @@
 Given such a maze, the problem is to navigate from a START location in the maze to an END location avoiding the dynamic obstacles in the path. In this task, there were two entities communicating to each other through Socket Programming. 
-Two entities:
+Two entities are:
 Python client program: task_1b.py
 C server program: robot-server.c
 Server will create socket communication and wait for client to connect. Client will connect to the server and send the shortest path found in the maze image.
